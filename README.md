@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">My name is Tiago and I'm a Ph.D. in Mechanical Engineering with additional technologist-level training in software developmen, from Brazil</p>
+<p data-importer="text" align="left">My name is Tiago and I'm a Ph.D. in Mechanical Engineering with additional technologist-level training in software development, from Brazil</p>
 
 ###
 
