@@ -45,8 +45,8 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiagogoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagogoto&layout=compact&theme=dracula&langs_count=5" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tiagogoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tiagogoto&layout=compact&theme=dracula&langs_count=5" height="160" alt="Top Languages" />
 </p>
 
 ###
