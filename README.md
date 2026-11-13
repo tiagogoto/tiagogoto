@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">Hi! I'm a University Professor with a Ph.D. in Mechanical Engineering. My research bridges thermal engineering, optimization algorithms, and scientific programming. Currently, my work focuses on applying Artificial Intelligence and data-driven methods to solve complex engineering problems.<br>EDUCATION<br><br>Ph.D. in Mechanical Engineering — [Universidade de São Paulo], [2022]<br>M.S. in Mechanical Engineering — [Universidade de São Paulo - USP], [2016]<br>B.S. in Mechanical Engineering — [Universidade Federal de Mato Grosso - UFMT], [2013]<br>Technologist Degree in Systems Analysis and Development — [AMPLI], [2025]</p>
+<p data-importer="text" align="left">Hi! I'm a University Professor with a Ph.D. in Mechanical Engineering. My research bridges thermal engineering, optimization algorithms, and scientific programming. Currently, my work focuses on applying Artificial Intelligence and data-driven methods to solve complex engineering problems.<br><h3>EDUCATION</h3><br><br>Ph.D. in Mechanical Engineering — [Universidade de São Paulo], [2022]<br>M.S. in Mechanical Engineering — [Universidade de São Paulo - USP], [2016]<br>B.S. in Mechanical Engineering — [Universidade Federal de Mato Grosso - UFMT], [2013]<br>Technologist Degree in Systems Analysis and Development — [AMPLI], [2025]</p>
 
 ###
 
