@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">Hi! I'm a University Professor with a Ph.D. in Mechanical Engineering. My research bridges thermal engineering, optimization algorithms, and scientific programming. Currently, my work focuses on applying Artificial Intelligence and data-driven methods to solve complex engineering problems.<br><h3>EDUCATION</h3><br><br>Ph.D. in Mechanical Engineering — [Universidade de São Paulo], [2022]<br>M.S. in Mechanical Engineering — [Universidade de São Paulo - USP], [2016]<br>B.S. in Mechanical Engineering — [Universidade Federal de Mato Grosso - UFMT], [2013]<br>Technologist Degree in Systems Analysis and Development — [AMPLI], [2025]</p>
+<p data-importer="text" align="left">Hi! I'm a University Professor with a Ph.D. in Mechanical Engineering. My research bridges thermal engineering, optimization algorithms, and scientific programming. Currently, my work focuses on applying Artificial Intelligence and data-driven methods to solve complex engineering problems.<br><br><h3>EDUCATION</h3><br>Ph.D. in Mechanical Engineering — [Universidade de São Paulo], [2022]<br>M.S. in Mechanical Engineering — [Universidade de São Paulo - USP], [2016]<br>B.S. in Mechanical Engineering — [Universidade Federal de Mato Grosso - UFMT], [2013]<br>Technologist Degree in Systems Analysis and Development — [AMPLI], [2025]</p>
 
 ###
 
@@ -44,10 +44,10 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/tiagogoto/tiagogoto/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/tiagogoto/tiagogoto/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tiagogoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagogoto&layout=compact&theme=dracula&langs_count=5" height="160" alt="Top Languages" />
+</p>
 
 ###
 
@@ -72,7 +72,5 @@
 ###
 
 <br clear="both">
-
-<h2 data-importer="text" align="left">Contacts:</h2>
 
 ###
